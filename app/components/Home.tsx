@@ -44,9 +44,9 @@ export default function Home() {
           Jersey City, NJ
         </p>
         <div className="mb-12">
-          <h2 className="text-3xl font-semibold mb-4 text-blue-600">Hi, I am Gunik:</h2>
+          <h2 className="text-3xl font-semibold mb-4 text-blue-600">Hi, I am Gunik</h2>
           <p className="text-xl mb-6 text-gray-700 leading-relaxed">
-            I'm a passionate Data Scientist and AI Engineer. I specialize in machine learning, building AI-powered
+            A passionate Data Scientist and AI Engineer. I specialize in machine learning, building AI-powered
             solutions, and pushing the boundaries of what's possible with machine learning. I thrive on making data work
             smarter.
           </p>
