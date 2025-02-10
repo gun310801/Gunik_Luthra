@@ -41,7 +41,7 @@ export default function Home() {
         </div>
         <p className="flex items-center justify-center text-gray-600 mb-8">
           <MapPin className="h-5 w-5 mr-2" />
-          Jersey City, NJ
+          New York City Metropolitan Area
         </p>
         <div className="mb-12">
           <h2 className="text-3xl font-semibold mb-4 text-blue-600">Hi, I am Gunik</h2>
