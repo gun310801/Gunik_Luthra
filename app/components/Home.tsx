@@ -10,7 +10,7 @@ export default function Home() {
       <div className="max-w-4xl mx-auto px-4">
         <div className="mb-8">
           <Image
-            src="/placeholder.svg?height=200&width=200"
+            src="/WhatsApp Image 2024-11-01 at 14.59.48.jpeg?height=200&width=200"
             alt="Gunik Luthra"
             width={200}
             height={200}
@@ -58,7 +58,7 @@ export default function Home() {
             </Button>
           </Link>
           <Button variant="outline" size="lg" asChild className="rounded-full">
-            <a href="/path-to-your-resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Gunik_Luthra_Resume.pdf" target="_blank" rel="noopener noreferrer">
               My Resume
             </a>
           </Button>
