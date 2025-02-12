@@ -10,10 +10,10 @@ export default function Home() {
       <div className="max-w-4xl mx-auto px-4">
         <div className="mb-8">
           <Image
-            src="/WhatsApp Image 2024-11-01 at 14.59.48.jpeg?height=200&width=200"
+            src="/WhatsApp Image 2024-11-01 at 14.59.48.jpeg?height=300&width=300"
             alt="Gunik Luthra"
-            width={200}
-            height={200}
+            width={300}
+            height={300}
             className="rounded-full mx-auto border-4 border-blue-500 shadow-lg"
           />
         </div>
