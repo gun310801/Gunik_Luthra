@@ -81,7 +81,7 @@ const projects: Project[] = [
   },
   {
     title: "Colourization of Grayscale Images using Deep Learning",
-    description: "Developed a deep learning model using convolutional neural networks to automatically colorize grayscale images, bringing new life to old photos and enhancing image analysis applications.
+    description: "Developed a deep learning model using convolutional neural networks to automatically colorize grayscale images, bringing new life to old photos and enhancing image analysis applications.",
     image: "/placeholder.svg?height=300&width=400",
     link: "https://github.com/gun310801/Colourization-of-Grayscale-Images-Using-Deep-Learning",
     skills: ["Image Processing", "Deep Learning", "CNN", "TensorFlow", "Python"],
