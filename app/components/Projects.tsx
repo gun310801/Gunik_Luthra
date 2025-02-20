@@ -47,14 +47,14 @@ const projects: Project[] = [
   {
     title: "Comparing NER and LLM for analyzing VAERS Data",
     description: "Developed and optimized a preprocessing pipeline for VAERS text data, achieving a 31% efficiency boost, and demonstrated LLM-based symptom extraction's superior accuracy and performance through advanced temporal analysis techniques.",
-    image: "/vaers.png?height=300&width=400",
+    image: "/vaers.png",
     link: "https://github.com/gun310801/VAERS-SymptomExtractionwithAI",
     skills: ["NLP", "LLMs", "NER", "Apriori Algorithm", "kendal tau coefficient", "DTW", "LCS"],
   },
   {
     title: "Hands Free Mouse Control For Paraplegics and Paralytics",
     description: "Developed a hands-free mouse control system for paraplegics and paralytics using facial landmark detection and eye/mouth movement tracking, enabling cursor movement and clicks through facial gestures without additional hardware.",
-    image: "/mouse_control.webp?height=300&width=400",
+    image: "/mouse_control.webp",
     link: "https://github.com/gun310801/HANDS-FREE-MOUSE-CONTROL-FOR-PARAPLEGICS-AND-PARALYTICS",
     skills: ["Computer Vision", "OpenCV","Human-Computer Interaction (HCI)", "dlib","PyAutoGUI"],
   },
