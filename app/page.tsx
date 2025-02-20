@@ -8,7 +8,7 @@ import Projects from "./components/Projects"
 import WorkExperience from "./components/WorkExperience"
 import Publications from "./components/Publications"
 import ExtraCurriculars from "./components/ExtraCurriculars"
-import Contact from "./components/Contact"
+
 
 export default function Page() {
   const sectionVariants = {
@@ -67,17 +67,6 @@ export default function Page() {
         >
           <h2 className="text-4xl font-bold mb-8 text-blue-600 text-center">Publications</h2>
           <Publications />
-        </motion.section>
-        <motion.section
-          id="contact"
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.6 }}
-          variants={sectionVariants}
-        >
-          <h2 className="text-4xl font-bold mb-8 text-blue-600 text-center">Contact</h2>
-          <Contact />
         </motion.section>
       </main>
     </div>
