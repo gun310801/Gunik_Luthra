@@ -58,7 +58,7 @@ export default function Home() {
             </Button>
           </Link>
           <Button variant="outline" size="lg" asChild className="rounded-full">
-            <a href="/Gunik_Luthra_Resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Gunik_Luthra_Resume_.pdf" target="_blank" rel="noopener noreferrer">
               My Resume
             </a>
           </Button>

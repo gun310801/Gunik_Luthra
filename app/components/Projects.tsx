@@ -47,7 +47,7 @@ const projects: Project[] = [
   {
     title: "Comparing NER and LLM for analyzing VAERS Data",
     description: "Developed and optimized a preprocessing pipeline for VAERS text data, achieving a 31% efficiency boost, and demonstrated LLM-based symptom extraction's superior accuracy and performance through advanced temporal analysis techniques.",
-    image: "/vaers.png",
+    image: "/vaers.jpg",
     link: "https://github.com/gun310801/VAERS-SymptomExtractionwithAI",
     skills: ["NLP", "LLMs", "NER", "Apriori Algorithm", "kendal tau coefficient", "DTW", "LCS"],
   },
